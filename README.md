@@ -1,3 +1,7 @@
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mysql,php,laravel,docker,git&theme=dark" />
+
+# My git 
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MatheusMendesL&show_icons=true&theme=dark&hide_title=true&hide=contribs&count_private=true" alt="GitHub Stats" height="180" />
