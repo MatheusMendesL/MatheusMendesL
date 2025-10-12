@@ -1,6 +1,8 @@
+# My skills
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mysql,php,laravel,docker,git&theme=dark" />
 
-# My git 
+# My git activity
 
 <div align="center">
 
