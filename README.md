@@ -1,4 +1,4 @@
-# A little about m
+# A little about me
 
 My name is Matheus
 
