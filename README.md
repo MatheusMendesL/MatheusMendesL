@@ -1,7 +1,6 @@
 # A little about me
 
 My name is Matheus
-i know
 
 # My skills
 
