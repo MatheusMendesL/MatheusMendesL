@@ -1,6 +1,6 @@
 # Sobre mim
 
-Sou o Matheus Mendes Lopes,  estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas** na **ETEC de Heliópolis**.  
+Sou o Matheus Mendes Lopes, estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas** na **ETEC de Heliópolis**.  
 Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Laravel**.
 
 ---
