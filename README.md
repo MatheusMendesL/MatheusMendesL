@@ -1,7 +1,7 @@
 # Sobre mim
 
 Sou o Matheus Mendes Lopes, estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Laravel** e **GO**.
+Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Laravel**, **GO** e **Docker**.
 
 ---
 
