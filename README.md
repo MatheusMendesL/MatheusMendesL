@@ -21,7 +21,7 @@ Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Larave
 | [Projeto-MVC](https://github.com/MatheusMendesL/Project-course-MVC) | Sistema básico implementado com padrão MVC (Udemy). |
 | [Incubadora-de-ideias](https://github.com/MatheusMendesL/Idea-incubator) | Aplicação de incubadora de ideias com **JWT** e **API em PHP**, consumida por **React**. |
 | [EJA-escolar](https://github.com/MatheusMendesL/EJA-school) | Projeto educacional inspirado no Duolingo para ensino médio. |
-| [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) | Aplicação em **Laravel** e **Node.js** para rastreamento de hábitos com atualizações em tempo real (em desenvolvimento). |
+| [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) | Aplicação em **Laravel** e **Go** para rastreamento de hábitos com atualizações em tempo real (em desenvolvimento). |
 | [habit-tracker](https://github.com/MatheusMendesL/Habit-tracker-not-complete) | Lista de tarefas simples desenvolvida com **Laravel**. |
 
 ---
