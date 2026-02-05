@@ -1,14 +1,14 @@
 # Sobre mim
 
 Sou o Matheus Mendes Lopes, estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Laravel**, **GO** e **Docker**.
+Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Redis**, **GO** e **Docker**.
 
 ---
 
 ## 💻 Minhas Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mysql,php,laravel,go,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mysql,redis,php,laravel,go,docker,git&theme=dark" />
 </div>
 
 
