@@ -1,4 +1,4 @@
-# Sobre mim
+# About Me
 
 Sou o Matheus Mendes Lopes, estudante do **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**.  
 Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Redis**, **GO** e **Docker**.
@@ -25,8 +25,3 @@ Tenho experiência com **APIs em PHP e Node.js**, atualmente aprendendo **Redis*
 | [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) |  Lista de tarefas simples desenvolvida com **Laravel**. |
 | [habit-tracker](https://github.com/MatheusMendesL/Habit-tracker-not-complete) | Aplicação em **Laravel** e **Go** para rastreamento de hábitos com atualizações em tempo real (em desenvolvimento). |
 
----
-
-## 📊 Minha Atividade no GitHub
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MatheusMendesL&show_icons=true&theme=dark&hide_title=true&hide=contribs&count_private=true" alt="GitHub Stats" height="180" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusMendesL&theme=github-compact" alt="GitHub Activity Graph" height="180"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMendesL&theme=github_dark" alt="Resumo do Perfil" height="180"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMendesL&layout=compact&theme=dark&v=7" alt="Linguagens Mais Usadas" height="180"/> </div>
