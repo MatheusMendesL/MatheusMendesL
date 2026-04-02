@@ -8,7 +8,7 @@ Tenho experiência com **APIs em PHP, Node.js e GO**, atualmente aprendendo **Re
 ## 💻 Minhas Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,nodejs,express,mysql,redis,go,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,nodejs,express,mysql,redis,go,docker,git&theme=dark" />
 </div>
 
 
