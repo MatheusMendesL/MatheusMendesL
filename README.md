@@ -25,4 +25,3 @@ Tenho experiência com **APIs em PHP, Node.js e GO**, atualmente aprendendo **An
 | [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) |  Lista de tarefas simples desenvolvida com **Laravel**. |
 | [habit-tracker](https://github.com/MatheusMendesL/Habit-tracker-not-complete) | Aplicação em **Angular**, **Go** e **Node.js** para rastreamento de hábitos, com API REST e gRPC (em desenvolvimento). |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMendesL&layout=compact)
