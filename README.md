@@ -21,7 +21,7 @@ Tenho experiência com **APIs em PHP, Node.js e GO**, atualmente aprendendo **An
 | [Fábrica-de-software](https://github.com/MatheusMendesL/Software-Factory) | Projeto escolar de e-commerce simples em PHP. |
 | [Projeto-MVC](https://github.com/MatheusMendesL/Project-course-MVC) | Sistema básico implementado com padrão MVC (Udemy). |
 | [Incubadora-de-ideias](https://github.com/MatheusMendesL/Idea-incubator) | Aplicação de incubadora de ideias com **JWT** e **API em PHP**, consumida por **React**. |
-| [EJA-escolar](https://github.com/MatheusMendesL/EJA-school) | Projeto educacional inspirado no Duolingo para ensino médio. |
+| [EJA-escolar](https://github.com/MatheusMendesL/EJA-school) | Projeto educacional inspirado no Duolingo para ensino médio (EJA). |
 | [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) |  Lista de tarefas simples desenvolvida com **Laravel**. |
 | [habit-tracker](https://github.com/MatheusMendesL/Habit-tracker-not-complete) | Aplicação em **Angular**, **Go** e **Node.js** para rastreamento de hábitos, com API REST e gRPC (em desenvolvimento). |
 
