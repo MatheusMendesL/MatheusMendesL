@@ -24,8 +24,3 @@ Tenho experiência com **APIs em PHP, Node.js e GO**, atualmente aprendendo **An
 | [EJA-escolar](https://github.com/MatheusMendesL/EJA-school) | Projeto educacional inspirado no Duolingo para ensino médio (EJA). |
 | [laravel-todo-project](https://github.com/MatheusMendesL/laravel-to-do-project) |  Lista de tarefas simples desenvolvida com **Laravel**. |
 | [habit-tracker](https://github.com/MatheusMendesL/Habit-tracker-not-complete) | Aplicação em **Angular**, **Go** e **Node.js** para rastreamento de hábitos, com API REST e gRPC (em desenvolvimento). |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-  <img align="center" src="https://vercel.app" />
-</picture>
