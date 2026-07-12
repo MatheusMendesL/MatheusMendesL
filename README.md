@@ -5,7 +5,7 @@ Tenho experiência com **APIs em PHP, Node.js e GO** além de docker, atualmente
 
 ---
 
-## 💻 Minhas Skills
+## Minhas Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=angular,php,bootstrap,nodejs,express,mysql,redis,go,docker,git&theme=dark" />
